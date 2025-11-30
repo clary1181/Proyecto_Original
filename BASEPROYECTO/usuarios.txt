@@ -1,0 +1,2 @@
+clarita 1234a Empleado
+pepe abcde GERENTE

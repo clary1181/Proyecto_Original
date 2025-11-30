@@ -1,0 +1,75 @@
+Venta ID: 1
+Cliente: Goku
+Fecha: 2025-06-06 17:52:09
+Productos:
+  - ID: 1, Cantidad: 1, Precio Unitario: $19.99
+  - ID: 2, Cantidad: 2, Precio Unitario: $39.99
+  - ID: 4, Cantidad: 1, Precio Unitario: $219.99
+Total: $319.96
+-----------------------------------------------------
+
+Venta ID: 2
+Cliente: Pikachu
+Fecha: 2025-06-06 18:07:04
+Productos:
+  - ID: 2, Cantidad: 1, Precio Unitario: $39.99
+Total: $39.99
+-----------------------------------------------------
+
+Venta ID: 3
+Cliente: Pao
+Fecha: 2025-06-06 18:27:21
+Productos:
+  - ID: 3, Cantidad: 1, Precio Unitario: $41.99
+Total: $41.99
+-----------------------------------------------------
+
+Venta ID: 4
+Cliente: Isa
+Fecha: 2025-06-09 21:20:52
+Productos:
+  - ID: 3, Cantidad: 1, Precio: $229.99
+Total: $229.99
+-----------------------------------------------------
+
+Venta ID: 5
+Cliente: Maria
+Fecha: 2025-06-09 21:32:53
+Productos:
+  - ID: 5, Cantidad: 1, Precio: $209.99
+Total: $209.99
+-----------------------------------------------------
+
+Venta ID: 6
+Cliente: Gris
+Fecha: 2025-06-09 21:39:41
+Productos:
+  - ID: 6, Cantidad: 1, Precio: $399.99
+Total: $399.99
+-----------------------------------------------------
+
+Venta ID: 7
+Cliente: patitojuan
+Fecha: 2025-06-09 21:44:27
+Productos:
+  - ID: 12, Cantidad: 1, Precio: $229.99
+Total: $229.99
+-----------------------------------------------------
+
+Venta ID: 8
+Cliente: Dixy
+Fecha: 2025-06-09 21:48:21
+Productos:
+  - ID: 10, Cantidad: 1, Precio: $379.99
+  - ID: 32, Cantidad: 1, Precio: $349.99
+Total: $729.98
+-----------------------------------------------------
+
+Venta ID: 9
+Cliente: Alondra
+Fecha: 2025-06-10 12:59:59
+Productos:
+  - ID: 34, Cantidad: 2, Precio: $379.99
+Total: $759.98
+-----------------------------------------------------
+
